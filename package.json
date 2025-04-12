@@ -1,12 +1,12 @@
 {
   "name": "ecommerce-codes-fashion",
-  "homepage": "https://emmabernard255.github.io/react-app",
+  "homepage": "https://supremeguru.github.io/ecommerce-codes-fashion/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "jsx -b && vite build && cp dist/index.html dist/404.html",
+    "build": "vite build && cp dist/index.html dist/404.html",
     "lint": "eslint .",
     "preview": "vite preview"
   },
